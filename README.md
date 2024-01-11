@@ -34,3 +34,8 @@ The provided C code simulates a simple grocery store system. It manages differen
 
 #### Conclusion:
 The code effectively models a grocery store system, enabling section-wise shopping, purchase quantity tracking, and generating a detailed receipt. However, it can be further refined by enhancing error handling, optimizing iteration processes, and improving output formatting.
+
+#### Contributors:
+Alizah Baig CT-021
+Neha Salman CT-022
+Fatimah Sajid CT-013
